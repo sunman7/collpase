@@ -30,14 +30,6 @@
         transform: rotateZ(0deg);
     }
 
-    .icon {
-        width: 1em;
-        height: 1em;
-        vertical-align: -0.15em;
-        fill: currentColor;
-        overflow: hidden;
-    }
-
     .collapse {
         box-sizing: border-box;
         position: relative;
